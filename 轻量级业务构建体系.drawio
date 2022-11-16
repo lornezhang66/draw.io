@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-16T06:55:32.564Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.42" etag="v8V9VGsoOW8WBrcUbr7Z" version="20.5.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-11-16T06:56:41.588Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.42" etag="9RxJslWiIB9b0W5j1v5Z" version="20.5.3" type="github" pages="3">
   <diagram id="536xvFlpvNGluMWGjvSa" name="架构图">
     <mxGraphModel dx="1422" dy="825" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -182,10 +182,10 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ckqsgPGu8E_yFBOMuasQ-4" value="业务功能设计器" style="ellipse;whiteSpace=wrap;html=1;rounded=1;glass=0;labelBackgroundColor=none;strokeColor=#006EAF;fillColor=#1ba1e2;align=right;fontStyle=1;fontColor=#000000;shadow=0;fontSize=14;sketch=1;" vertex="1" parent="1">
+        <mxCell id="ckqsgPGu8E_yFBOMuasQ-4" value="业务功能设计器&lt;br&gt;名录库等" style="ellipse;whiteSpace=wrap;html=1;rounded=1;glass=0;labelBackgroundColor=none;strokeColor=#006EAF;fillColor=#1ba1e2;align=right;fontStyle=1;fontColor=#000000;shadow=0;fontSize=14;sketch=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="172.5" width="510" height="315" as="geometry" />
         </mxCell>
-        <mxCell id="ckqsgPGu8E_yFBOMuasQ-3" value="单据设计器" style="ellipse;whiteSpace=wrap;html=1;rounded=1;glass=0;labelBackgroundColor=none;strokeColor=#006EAF;fillColor=#1ba1e2;align=right;fontStyle=1;fontColor=#000000;shadow=0;fontSize=14;sketch=1;" vertex="1" parent="1">
+        <mxCell id="ckqsgPGu8E_yFBOMuasQ-3" value="单据、查询&lt;br&gt;打印及其他" style="ellipse;whiteSpace=wrap;html=1;rounded=1;glass=0;labelBackgroundColor=none;strokeColor=#006EAF;fillColor=#1ba1e2;align=right;fontStyle=1;fontColor=#000000;shadow=0;fontSize=14;sketch=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="200" width="340" height="255" as="geometry" />
         </mxCell>
         <mxCell id="ckqsgPGu8E_yFBOMuasQ-2" value="模型关联的设计器" style="ellipse;whiteSpace=wrap;html=1;rounded=1;glass=0;labelBackgroundColor=none;strokeColor=#005700;fillColor=#008a00;align=right;fontStyle=1;fontColor=#000000;shadow=0;fontSize=13;sketch=1;" vertex="1" parent="1">
