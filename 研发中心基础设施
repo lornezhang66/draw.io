@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-22T04:29:20.773Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.52" etag="YrugNgi9pSF48mNedyy9" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-22T04:29:41.750Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.52" etag="qR7iwtK21_Bf0fS5Jxqv" version="20.5.3" type="github">
   <diagram id="gEOqAiYWmord_auFR4nO" name="基础设施架构图">
     <mxGraphModel dx="988" dy="702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#182E3E" math="0" shadow="1">
       <root>
@@ -52,7 +52,7 @@
         <mxCell id="df4UX6cl-oeVMz9sRZTQ-25" value="" style="swimlane;startSize=0;rounded=0;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;swimlaneFillColor=#A9C4EB;" vertex="1" parent="1">
           <mxGeometry x="180" y="170" width="560" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="df4UX6cl-oeVMz9sRZTQ-26" value="适配复杂环境" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;rotation=90;rounded=0;fillColor=none;fontColor=#FFFFFF;" vertex="1" parent="df4UX6cl-oeVMz9sRZTQ-25">
+        <mxCell id="df4UX6cl-oeVMz9sRZTQ-26" value="适配复杂环境" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;rotation=90;rounded=0;fillColor=none;fontColor=#000000;" vertex="1" parent="df4UX6cl-oeVMz9sRZTQ-25">
           <mxGeometry x="-30" y="35" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="df4UX6cl-oeVMz9sRZTQ-27" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="df4UX6cl-oeVMz9sRZTQ-25">
