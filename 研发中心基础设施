@@ -1,11 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2022-11-22T03:30:42.315Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.52" etag="utgOj9ny3XjS9qFhTW_s" version="20.5.3" type="github">
-  <diagram id="gEOqAiYWmord_auFR4nO" name="第 1 页">
-    <mxGraphModel dx="1186" dy="842" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+<mxfile host="app.diagrams.net" modified="2022-11-22T03:38:20.917Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.52" etag="vRnldd00lAxmNFDbXJCR" version="20.5.3" type="github">
+  <diagram id="gEOqAiYWmord_auFR4nO" name="基础设施架构图">
+    <mxGraphModel dx="706" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#114B5F" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="xqBLSUM-2U--3llY9QZX-1" value="&lt;h1&gt;基础层&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="510" y="370" width="190" height="120" as="geometry" />
+        <mxCell id="xqBLSUM-2U--3llY9QZX-1" value="&lt;h1&gt;基础层&lt;/h1&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;池化硬件资源&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;依托女娲平台&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=#E4FDE1;" parent="1" vertex="1">
+          <mxGeometry x="60" y="380" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="df4UX6cl-oeVMz9sRZTQ-2" value="&lt;h1&gt;设施层&lt;/h1&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;统一维护&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;集中管理&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;持续改进&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=#E4FDE1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="220" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="df4UX6cl-oeVMz9sRZTQ-3" value="&lt;h1&gt;服务层&lt;/h1&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;统一入口&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;适配新创&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;技术支撑&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=#E4FDE1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="60" width="190" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
