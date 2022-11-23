@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-21T10:01:31.570Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.52" etag="mggTx1qS03jCRw1QagSr" version="20.5.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-11-23T04:05:59.037Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.52" etag="9Ro8DQ8BqCS3JvqAC4kK" version="20.5.3" type="github" pages="3">
   <diagram id="536xvFlpvNGluMWGjvSa" name="架构图">
-    <mxGraphModel dx="1422" dy="825" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="706" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -165,27 +165,27 @@
             <mxPoint x="720" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Xjp7C1eiVHmMV2L_zE0t-4" value="元数据机制" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Xjp7C1eiVHmMV2L_zE0t-4" value="元数据机制" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="240" y="463" width="220" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="1Fvhcsvs-Z9gKZ1jzA7M" name="设计期的多层次抽象">
-    <mxGraphModel dx="1422" dy="825" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="706" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ckqsgPGu8E_yFBOMuasQ-4" value="业务功能设计器&lt;br&gt;名录库等" style="ellipse;whiteSpace=wrap;html=1;rounded=1;glass=0;labelBackgroundColor=none;strokeColor=#006EAF;fillColor=#1ba1e2;align=right;fontStyle=1;fontColor=#000000;shadow=0;fontSize=14;sketch=1;" vertex="1" parent="1">
+        <mxCell id="ckqsgPGu8E_yFBOMuasQ-4" value="&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;业务功能设计器&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;名录库等&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;【多组文件】&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;glass=0;labelBackgroundColor=none;strokeColor=#006EAF;fillColor=#1ba1e2;align=right;fontStyle=1;fontColor=#000000;shadow=0;fontSize=14;sketch=1;" parent="1" vertex="1">
           <mxGeometry x="190" y="172.5" width="510" height="315" as="geometry" />
         </mxCell>
-        <mxCell id="ckqsgPGu8E_yFBOMuasQ-3" value="单据、查询&lt;br&gt;打印及其他" style="ellipse;whiteSpace=wrap;html=1;rounded=1;glass=0;labelBackgroundColor=none;strokeColor=#006EAF;fillColor=#1ba1e2;align=right;fontStyle=1;fontColor=#000000;shadow=0;fontSize=14;sketch=1;" vertex="1" parent="1">
+        <mxCell id="ckqsgPGu8E_yFBOMuasQ-3" value="单据、查询&lt;br&gt;打印及其他&lt;br&gt;【一组文件】" style="ellipse;whiteSpace=wrap;html=1;rounded=1;glass=0;labelBackgroundColor=none;strokeColor=#006EAF;fillColor=#1ba1e2;align=right;fontStyle=1;fontColor=#000000;shadow=0;fontSize=14;sketch=1;" parent="1" vertex="1">
           <mxGeometry x="210" y="200" width="340" height="255" as="geometry" />
         </mxCell>
-        <mxCell id="ckqsgPGu8E_yFBOMuasQ-2" value="模型关联的设计器" style="ellipse;whiteSpace=wrap;html=1;rounded=1;glass=0;labelBackgroundColor=none;strokeColor=#005700;fillColor=#008a00;align=right;fontStyle=1;fontColor=#000000;shadow=0;fontSize=13;sketch=1;" vertex="1" parent="1">
+        <mxCell id="ckqsgPGu8E_yFBOMuasQ-2" value="模型关联的设计器&lt;br&gt;【1-2个文件】" style="ellipse;whiteSpace=wrap;html=1;rounded=1;glass=0;labelBackgroundColor=none;strokeColor=#005700;fillColor=#008a00;align=right;fontStyle=1;fontColor=#000000;shadow=0;fontSize=13;sketch=1;" parent="1" vertex="1">
           <mxGeometry x="220" y="260" width="240" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="ckqsgPGu8E_yFBOMuasQ-1" value="源码编辑器" style="ellipse;whiteSpace=wrap;html=1;rounded=1;glass=0;labelBackgroundColor=none;strokeColor=#2D7600;fillColor=#60a917;fontColor=#000000;fontStyle=1;shadow=0;fontSize=14;sketch=1;" vertex="1" parent="1">
+        <mxCell id="ckqsgPGu8E_yFBOMuasQ-1" value="源码编辑器&lt;br&gt;【单文件】" style="ellipse;whiteSpace=wrap;html=1;rounded=1;glass=0;labelBackgroundColor=none;strokeColor=#2D7600;fillColor=#60a917;fontColor=#000000;fontStyle=1;shadow=0;fontSize=14;sketch=1;" parent="1" vertex="1">
           <mxGeometry x="230" y="290" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
