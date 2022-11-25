@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-25T03:34:27.653Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.56" etag="Ndf9ifkS6gwzYAdE0_Tu" version="20.6.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-11-25T03:38:26.130Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.56" etag="zMkAyZ51cprCu642Vtd_" version="20.6.0" type="github" pages="3">
   <diagram id="536xvFlpvNGluMWGjvSa" name="架构图">
     <mxGraphModel dx="706" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -438,6 +438,9 @@
           <mxGeometry x="-0.6092" y="-3" relative="1" as="geometry">
             <mxPoint x="16" y="-4" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="s1qjHax-djkjmBFolAsf-11" value="标准接口&lt;br&gt;规范" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="550" y="130" width="30" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
