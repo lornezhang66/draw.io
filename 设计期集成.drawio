@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-05T06:47:31.093Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.68" version="20.6.0" etag="zSC_o3blMo-bz152Q6cY" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-05T06:55:56.308Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.68" version="20.6.0" etag="cgWL10FmQpM_yFCA74i7" type="github">
   <diagram id="JijADks3MuCWAzi7ZPhF" name="工作空间-git仓库">
     <mxGraphModel dx="971" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -46,7 +46,7 @@
         <mxCell id="v8o-yKlLDHv4aurgAIXX-47" value="workspace&lt;br style=&quot;font-size: 16px;&quot;&gt;name:pB_v1-1_user2" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" vertex="1" parent="v8o-yKlLDHv4aurgAIXX-46">
           <mxGeometry x="30" y="5" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="v8o-yKlLDHv4aurgAIXX-7" value="配置信息" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="v8o-yKlLDHv4aurgAIXX-3">
+        <mxCell id="v8o-yKlLDHv4aurgAIXX-7" value="配置信息&lt;br style=&quot;font-size: 17px;&quot;&gt;平铺工作空间、（用户、项目在目录内是虚拟概念）" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=17;" vertex="1" parent="v8o-yKlLDHv4aurgAIXX-3">
           <mxGeometry x="10" y="30" width="430" height="60" as="geometry" />
         </mxCell>
         <mxCell id="v8o-yKlLDHv4aurgAIXX-13" value="git Remote仓库" style="swimlane;whiteSpace=wrap;html=1;rounded=1;sketch=1;hachureGap=4;jiggle=2;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
